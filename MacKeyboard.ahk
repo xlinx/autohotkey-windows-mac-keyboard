@@ -107,7 +107,7 @@ LAlt & Tab::AltTab
 ; OS X keyboard mappings for special chars
 ; --------------------------------------------------------------
 
-; ; Map Alt + L to @
+; ; Map Alt + L to @ 
 ; !l::SendInput {@}
 
 ; ; Map Alt + N to \
